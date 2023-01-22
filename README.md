@@ -1,2 +1,8 @@
 # AWS-practices
-URLs to the web pages saved in AWS Buckets
+Web pages saved in AWS Buckets/
+
+In my free time and for practicing pruposes I have created two basic pages to host on AWS.
+
+http://grcontrucciones.s3-website-us-east-1.amazonaws.com
+
+http://pammy-web.s3-website-us-east-1.amazonaws.com
